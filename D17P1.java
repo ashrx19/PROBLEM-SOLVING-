@@ -17,7 +17,6 @@
 //          R = 7
 //          T = 1
 // Output : 210
-
 import java.io.*;
 
 class GFG {
