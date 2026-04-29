@@ -59,5 +59,5 @@ class DoNotTerminate {
 
 // 100
 // Sample Output 0
-//GIT_AUTHOR_DATE="2026-05-02 18:30:00" GIT_COMMITTER_DATE="2026-05-02 18:30:00" git commit -m "D40P1"
+//GIT_AUTHOR_DATE="2026-05-08 18:30:00" GIT_COMMITTER_DATE="2026-05-08" 18:30:00" git commit -m "D39P2"
 // // Good job
